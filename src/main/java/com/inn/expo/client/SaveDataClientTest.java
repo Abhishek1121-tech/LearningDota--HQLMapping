@@ -1,13 +1,13 @@
-package com.infotech.client;
+package com.inn.expo.client;
 
 import java.util.Date;
 
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 
-import com.infotech.entities.Address;
-import com.infotech.entities.Employee;
-import com.infotech.util.HibernateUtil;
+import com.inn.expo.entities.Address;
+import com.inn.expo.entities.Employee;
+import com.inn.expo.util.HibernateUtil;
 
 public class SaveDataClientTest {
 

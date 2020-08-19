@@ -1,4 +1,4 @@
-package com.infotech.util;
+package com.inn.expo.util;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.Metadata;

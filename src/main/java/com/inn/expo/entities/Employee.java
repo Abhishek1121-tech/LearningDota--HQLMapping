@@ -1,4 +1,4 @@
-package com.infotech.entities;
+package com.inn.expo.entities;
 
 import java.util.ArrayList;
 import java.util.Date;

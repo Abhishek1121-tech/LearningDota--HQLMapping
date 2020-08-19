@@ -1,4 +1,4 @@
-package com.infotech.entities;
+package com.inn.expo.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
